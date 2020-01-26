@@ -6,7 +6,7 @@ These nutty cookies are inspired by Food Network Kitchen's [oatmeal-flax chocola
 ## Ingredients (for 12 cookies)
 
 - 2 tbsp butter at room temperature
-- 3.5 tbsp white sugar
+- 3 1/2 tbsp white sugar
 - 3 tbsp brown sugar
 - 1 egg
 - 1/4 tsp baking soda
