@@ -1,6 +1,6 @@
 # Chocolate chip oatmeal cookies
 
-These nutty cookies are inspired by Food Network Kitchen's [oatmeal-flax chocolate chip cookies](https://www.foodnetwork.com/recipes/food-network-kitchen/oatmeal-flax-chocolate-chip-cookies-recipe-2106797) and Trader Joe's gluten-free oatmeal cookie recipe (found on the back of their rolled oats.
+These nutty cookies are inspired by Food Network Kitchen's [oatmeal-flax chocolate chip cookies](https://www.foodnetwork.com/recipes/food-network-kitchen/oatmeal-flax-chocolate-chip-cookies-recipe-2106797) and Trader Joe's gluten-free oatmeal cookie recipe (found on the back of their rolled oats).
 
 
 ## Ingredients (for 12 cookies)
