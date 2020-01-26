@@ -27,7 +27,7 @@ These nutty cookies are inspired by Food Network Kitchen's [oatmeal-flax chocola
 
 2. Soften, but don't melt, the butter (2 tbsp). With a mixer on medium-high, beat the butter with the white sugar (3.5 tbsp) and brown sugar (3 tbsp) until fluffy. Whisk in the egg.
 
-3. Add in the baking soda (1/4 tsp), vanilla (1/4 tsp), chopped walnuts (1 tbsp), flaxseeds (1/2 tbsp), and flour (3 tbsp). Beat til smooth.
+3. Add in the baking soda (1/4 tsp), vanilla (1/4 tsp), chopped walnuts (1 tbsp), flaxseeds (1/2 tbsp), and flour (3 tbsp). Beat until smooth.
 
 4. Beat in the peanut butter (1/8 cup).
 
