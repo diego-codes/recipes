@@ -25,7 +25,7 @@ These nutty cookies are inspired by Food Network Kitchen's [oatmeal-flax chocola
 
 1. Preheat oven to 350°F. Line a baking sheet with parchment paper.
 
-2. If the butter (2 tbsp) is cold, soften it without melting it. With a mixer on medium-high, beat the butter with the white sugar (3.5 tbsp) and brown sugar (3 tbsp) until fluffy. Whisk in the egg.
+2. If the butter (2 tbsp) is cold, soften it without melting it. With a mixer on medium-high, beat the butter with the white sugar (3 1/2 tbsp) and brown sugar (3 tbsp) until fluffy. Whisk in the egg.
 
 3. Add in the baking soda (1/4 tsp), vanilla (1/4 tsp), chopped walnuts (1 tbsp), flaxseeds (1/2 tbsp), and flour (3 tbsp). Beat until smooth.
 
