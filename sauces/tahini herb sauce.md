@@ -1,4 +1,4 @@
-# Tahini Herb Sauce
+# Tahini herb sauce
 
 An easy and quick sauce that packs a garlicky punch. It can be used as a dip, dressing, or general purpose fresh sauce on any dish. This sauce is inspired by this Bone Appetit [recipe](https://www.bonappetit.com/recipe/spiced-green-tahini-sauce).
 
