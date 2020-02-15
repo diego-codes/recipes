@@ -14,7 +14,7 @@
     current number of recipes and display the result in the command tray.
 '''
 from __future__ import print_function
-import os
+import os, posixpath
 
 HEADER = '''# Family recipes
 This is a collection of recipes we've learned from our family and friends, or modified
@@ -53,14 +53,14 @@ This repository is licensed under the MIT license. See `LICENSE` for details.
 def get_list_of_categories():
     ''' Walk the current directory and get a list of all subdirectories at that
     level. These are the "categories" in which there are recipes.'''
-    dirs = [x for x in os.listdir('.') if os.path.isdir(x) and
+    dirs = [x for x in os.listdir('.') if posixpath.isdir(x) and
             '.git' not in x]
     return dirs
 
 
 def get_title(recipe_file):
     ''' Read the file until we hit the first line that starts with a #
-    indicating a title in markdown.  We'll use that as the title for this
+    indicating a title in markdown. We'll use that as the title for this
     entry. '''
     with open(recipe_file) as _file:
         for line in _file:
@@ -74,8 +74,8 @@ def get_recipes(category):
     recipe_files = [x for x in os.listdir(category)]
     titles = []
     for filename in recipe_files:
-        fullname = os.path.join(category, filename)
-        if (os.path.isfile(fullname)) and fullname.endswith('.md'):
+        fullname = posixpath.join(category, filename) # here lies the issue
+        if (posixpath.isfile(fullname)) and fullname.endswith('.md'):
             title = get_title(fullname)
             titles.append((title, fullname))
     return titles
