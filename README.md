@@ -17,11 +17,11 @@ We currently have 3 recipes available.
 
 ### Desserts
 
-- [Chocolate chip oatmeal cookies](desserts/chocolate chip oatmeal cookies.md)
+- [Chocolate chip oatmeal cookies](desserts/chocolate-chip-oatmeal-cookies.md)
 
 ### Sauces
 
-- [Tahini herb sauce](sauces/tahini herb sauce.md)
+- [Tahini herb sauce](sauces/tahini-herb-sauce.md)
 
 ## Future recipes
 There are a bunch of things we would love to add in the future. If you have a good recipe
