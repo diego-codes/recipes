@@ -1,8 +1,6 @@
 # Family recipes
 This is a collection of recipes we've learned from our family and friends, or modified
-from various cooking sites and apps.
-
-We currently have 3 recipes available.
+from various cooking sites and apps. We currently have 3 recipes available.
 
 ---
 ### Categories
