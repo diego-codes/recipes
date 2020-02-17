@@ -39,6 +39,7 @@ for any of the following foods that we could experiment with, please send it our
 - Wraps
 - Nachos (like, real nachos)
 - Enchiladas
+- Elote
 
 ## Credits
 - [til-collective/til-collective](https://github.com/til-collective/til-collective)
