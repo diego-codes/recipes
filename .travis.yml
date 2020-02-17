@@ -3,7 +3,7 @@ python:
   - 3.6
 
 install: echo "Skip install"
-script: echo "Skip script"
+script: echo $TRAVIS_CURRENT_BRANCH
 
 deploy:
   provider: script
