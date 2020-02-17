@@ -11,6 +11,6 @@ deploy:
     - python ./createReadme.py
     - git add README.md
     - git commit -m "Generate README"
-    - git push origin "$TRAVIS_CURRENT_BRANCH"
+    - git push origin HEAD:"$TRAVIS_CURRENT_BRANCH"
   on:
     branch: travis-integration
