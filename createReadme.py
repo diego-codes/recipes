@@ -94,6 +94,7 @@ def get_category_dict(category_names):
 def print_file(category_names, count, categories):
     ''' Now we have all the information, print it out in markdown format. '''
     with open('README.md', 'w') as file_:
+        print('We currently have {0} recipes available.'.format(count))
         file_.write(HEADER)
         file_.write('\n')
         file_.write('We currently have {0} recipes available.'.format(count))
@@ -132,3 +133,5 @@ def create_readme():
 if __name__ == '__main__':
     create_readme()
     os.system('git add README.md')
+    os.system('git commit -m "Generate README"')
+    os.system('git push')

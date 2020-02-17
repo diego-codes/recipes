@@ -1,0 +1,7 @@
+language: python
+
+deploy:
+  provider: script
+  script: python ./createReadme.py
+  on:
+    branch: travis-integration
