@@ -2,7 +2,7 @@
 This is a collection of recipes we've learned from our family and friends, or modified
 from various cooking sites and apps.
 
-We currently have 4 recipes available.
+We currently have 5 recipes available.
 
 ---
 ### Categories
@@ -10,6 +10,7 @@ We currently have 4 recipes available.
 * [Desserts](#desserts)
 * [Sauces](#sauces)
 * [Sides](#sides)
+* [Soup](#soup)
 
 ---
 ### Breakfast
@@ -27,6 +28,10 @@ We currently have 4 recipes available.
 ### Sides
 
 - [Sautéed kale](sides/sauteed-kale.md)
+
+### Soup
+
+- [White bean brothy soup](soup/white-bean-brothy-soup.md)
 
 ## Future recipes
 There are a bunch of things we would love to add in the future. If you have a good recipe
