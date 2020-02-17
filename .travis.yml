@@ -3,10 +3,14 @@ python:
   - 3.6
 
 install: echo "Skip install"
-script: echo $TRAVIS_CURRENT_BRANCH
+script: echo "Skip script"
 
 deploy:
   provider: script
-  script: python ./createReadme.py
+  script: 
+    - python ./createReadme.py
+    - git add README.md
+    - git commit -m "Generate README"
+    - git push origin "$TRAVIS_CURRENT_BRANCH"
   on:
     branch: travis-integration
