@@ -120,7 +120,7 @@ def print_file(category_names, count, categories):
             file_.write('\n')
 
         file_.write(FOOTER)
-        print('🎉 Generated README successfully with {0} recipes'.format(count))
+        print('Generated README successfully with {0} recipes'.format(count))
 
 
 
