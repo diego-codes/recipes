@@ -1,8 +1,9 @@
-# White bean brothy soup
+# Brothy white bean soup
 
 This recipe is a "European" tasting soup that is bright and brothy. It is time-consuming, but the labor is minimal. This recipe is based on Bon Appetit's [video recipe](https://www.youtube.com/watch?v=PXqoyt4vsPA).
 
 **Note:** Make sure that you plan for this recipe to have enough time to soak beans.
+
 
 ## Ingredients
 

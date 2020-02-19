@@ -8,7 +8,7 @@ A quick and tasty way to cook up a bunch of kale.
 - 2 - 3 tbsp olive oil
 - 1 - 2 garlic cloves thinly sliced
 - 1/2 tsp red pepper chili flakes
-- 1/3 of a bag of chopped kale (enough to cover the entire pan)
+- 4 oz of chopped kale (enough to cover the entire pan)
 - Salt & pepper to taste 
 - 1/2 cup broth
 - Juice of a quarter of a lemon

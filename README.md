@@ -31,7 +31,7 @@ We currently have 5 recipes available.
 
 ### Soup
 
-- [White bean brothy soup](soup/white-bean-brothy-soup.md)
+- [Brothy white bean soup](soup/brothy-white-bean-soup.md)
 
 ## Future recipes
 There are a bunch of things we would love to add in the future. If you have a good recipe
