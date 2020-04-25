@@ -22,7 +22,7 @@ We currently have 4 recipes available.
 
 ### Main courses
 
-- [Rostissery chicken with sweet potatoes](main-courses/rotissery-chicken-sweet-potato.md)
+- [Rotisserie chicken with sweet potatoes](main-courses/rotisserie-chicken-sweet-potato.md)
 
 ### Sauces
 
