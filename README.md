@@ -2,12 +2,13 @@
 This is a collection of recipes we've learned from our family and friends, or modified
 from various cooking sites and apps.
 
-We currently have 3 recipes available.
+We currently have 4 recipes available.
 
 ---
 ### Categories
 * [Breakfast](#breakfast)
 * [Desserts](#desserts)
+* [Main courses](#main-courses)
 * [Sauces](#sauces)
 
 ---
@@ -18,6 +19,10 @@ We currently have 3 recipes available.
 ### Desserts
 
 - [Chocolate chip oatmeal cookies](desserts/chocolate-chip-oatmeal-cookies.md)
+
+### Main courses
+
+- [Rostissery chicken with sweet potatoes](main-courses/rotissery-chicken-sweet-potato.md)
 
 ### Sauces
 
