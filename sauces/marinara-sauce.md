@@ -30,6 +30,6 @@ This is your nonna's recipe with anchovies and all. This recipe will make a lot 
 
 6. Once contents start to bubble, lower heat to low and cover partially. Let sauce simmer for about 2 hours. Taste it half way, salt to taste, and stir. 
 
-7. After the sauce has reduced to the desired consistency. It is ready to enjoy with your favorite long pasta.
+7. After the sauce has reduced to the desired consistency, it is ready to enjoy with your favorite long pasta.
 
 8. To store let it cool to room temperature. Store it in mason jar in the fridge for up to 4 days. Otherwise, freeze in smaller portions in freezer bags for up to 3 months. Thaw sauce in the fridge for 24 hours before using.
