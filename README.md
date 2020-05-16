@@ -15,6 +15,7 @@ We currently have 6 recipes available.
 ---
 ### Breakfast
 
+- [Hummus toast](breakfast/hummus-toast.md)
 - [Waffles](breakfast/waffles.md)
 
 ### Desserts
