@@ -2,14 +2,16 @@
 This is a collection of recipes we've learned from our family and friends, or modified
 from various cooking sites and apps.
 
-We currently have 4 recipes available.
+We currently have 7 recipes available.
 
 ---
 ### Categories
 * [Breakfast](#breakfast)
 * [Desserts](#desserts)
-* [Main courses](#main-courses)
+* [Meals](#meals)
 * [Sauces](#sauces)
+* [Sides](#sides)
+* [Soup](#soup)
 
 ---
 ### Breakfast
@@ -20,13 +22,22 @@ We currently have 4 recipes available.
 
 - [Chocolate chip oatmeal cookies](desserts/chocolate-chip-oatmeal-cookies.md)
 
-### Main courses
+### Meals
 
-- [Rotisserie chicken with sweet potatoes](main-courses/rotisserie-chicken-sweet-potato.md)
+- [Rotisserie chicken with sweet potatoes](meals/rotisserie-chicken-sweet-potato.md)
 
 ### Sauces
 
 - [Tahini herb sauce](sauces/tahini-herb-sauce.md)
+
+### Sides
+
+- [Roasted sweet potato halves](sides/roasted-sweet-potato-halves.md)
+- [Sautéed kale](sides/sauteed-kale.md)
+
+### Soup
+
+- [Brothy white bean soup](soup/brothy-white-bean-soup.md)
 
 ## Future recipes
 There are a bunch of things we would love to add in the future. If you have a good recipe
@@ -46,6 +57,7 @@ for any of the following foods that we could experiment with, please send it our
 - Wraps
 - Nachos (like, real nachos)
 - Enchiladas
+- Elote
 
 ## Credits
 - [til-collective/til-collective](https://github.com/til-collective/til-collective)

@@ -39,6 +39,7 @@ for any of the following foods that we could experiment with, please send it our
 - Wraps
 - Nachos (like, real nachos)
 - Enchiladas
+- Elote
 
 ## Credits
 - [til-collective/til-collective](https://github.com/til-collective/til-collective)
@@ -120,6 +121,8 @@ def print_file(category_names, count, categories):
             file_.write('\n')
 
         file_.write(FOOTER)
+        print('Generated README successfully with {0} recipes'.format(count))
+
 
 
 def create_readme():
