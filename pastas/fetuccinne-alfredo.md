@@ -10,15 +10,15 @@ Traditionally, this dish does not use cream, just lots of butter and parmesan. T
 - Freshly ground black pepper
 
 ## Instructions
-1. In a large pot, boil water with a good amount of salt.
+1. In a large pot, boil water with a good amount of salt (1 1/2 tbps).
 
-2. When the water is boiling, add (12 ounces) pasta and cook according to the instructions on the container. Cook for the lowest amount of time required. The pasta will finish cooking in the sauce laster.
+2. When the water is boiling, add (12 ounces) pasta and cook according to the instructions on the container. Cook for the lowest amount of time required. The pasta will finish cooking in the sauce later.
 
 3. Reserve 2 cups of the pasta cooking water when the pasta is almost done.
 
 4. Drain the pasta and set aside while the sauce is made.
 
-5. In a large skillet on medium low heat, pour 1 cup of the reseved pasta cooking water. Get it so a simmer.
+5. In a large skillet on medium low heat, pour 1 cup of the reserved pasta cooking water. Get it to a simmer.
 
 6. Actively whisk/mix the butter ½ to 1 tbsp at a time so the butter and the water emulsify (combine into homogenous liquid). Wait until the piece of butter is fully incorporated into the sauce before adding the next piece.
 
