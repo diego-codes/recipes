@@ -2,13 +2,15 @@
 This is a collection of recipes we've learned from our family and friends, or modified
 from various cooking sites and apps.
 
-We currently have 3 recipes available.
+We currently have 5 recipes available.
 
 ---
 ### Categories
 * [Breakfast](#breakfast)
 * [Desserts](#desserts)
 * [Sauces](#sauces)
+* [Sides](#sides)
+* [Soup](#soup)
 
 ---
 ### Breakfast
@@ -22,6 +24,14 @@ We currently have 3 recipes available.
 ### Sauces
 
 - [Tahini herb sauce](sauces/tahini-herb-sauce.md)
+
+### Sides
+
+- [Sautéed kale](sides/sauteed-kale.md)
+
+### Soup
+
+- [Brothy white bean soup](soup/brothy-white-bean-soup.md)
 
 ## Future recipes
 There are a bunch of things we would love to add in the future. If you have a good recipe
