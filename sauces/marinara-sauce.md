@@ -24,7 +24,7 @@ This is your nonna's recipe with anchovies and all. This recipe will make a lot 
 
 3. Add minced garlic and red pepper flakes. Stir frequently for 1 minute to make sure the garlic does not burn.
 
-4. Once garlic is fragant, add tomato paste, anchoves, and a couple of pinches of salt and a pinch black pepper. Stir until anchovies dissolve. Let mixture cook until tomato paste darkens for about 5-7 minutes.
+4. Once garlic is fragrant, add tomato paste, anchovies, and a couple of pinches of salt and a pinch black pepper. Stir until anchovies dissolve. Let mixture cook until tomato paste darkens for about 5-7 minutes.
 
 5. Dump entire contents of whole and crushed tomatoes into the pot and add oregano. Stir everything well while crushing the whole tomatoes with stirring spoon. Watch out for bubbling and splattering.
 
