@@ -11,7 +11,7 @@ This recipe is a twist on avocado toast because some of us can't eat avocados.
 - 1 egg
 - Salt and pepper to taste
 - Hummus to spread
-- (Optional) Sriracha or parmesan to top
+- (Optional) Sriracha or Parmesan to top
 
 
 ## Instructions
