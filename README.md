@@ -2,7 +2,7 @@
 This is a collection of recipes we've learned from our family and friends, or modified
 from various cooking sites and apps.
 
-We currently have 5 recipes available.
+We currently have 6 recipes available.
 
 ---
 ### Categories
@@ -23,6 +23,7 @@ We currently have 5 recipes available.
 
 ### Sauces
 
+- [Lemon dijon vinagrette dressing](sauces/lemon-dijon-vinagrette-dressing.md)
 - [Tahini herb sauce](sauces/tahini-herb-sauce.md)
 
 ### Sides
@@ -51,6 +52,7 @@ for any of the following foods that we could experiment with, please send it our
 - Wraps
 - Nachos (like, real nachos)
 - Enchiladas
+- Elote
 
 ## Credits
 - [til-collective/til-collective](https://github.com/til-collective/til-collective)
