@@ -10,7 +10,7 @@ Traditionally, this dish does not use cream, just lots of butter and parmesan. T
 - Freshly ground black pepper
 
 ## Instructions
-1. In a large pot, boil water with a good amount of salt (1 1/2 tbps).
+1. In a large pot, boil water with a good amount of salt (1 1/2 tablespoons).
 
 2. When the water is boiling, add (12 ounces) pasta and cook according to the instructions on the container. Cook for the lowest amount of time required. The pasta will finish cooking in the sauce later.
 
