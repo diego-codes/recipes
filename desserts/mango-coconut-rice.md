@@ -5,7 +5,7 @@ This Thai dessert compliments salty and spicy food well. This recipe is inspired
 
 ## Ingredients
 
-- 1 tablespoon olive oil
+- 1 tbsp olive oil
 - 1.5 cups long-grain rice (ideally sushi rice)
 - 1 can (14 ounces) unsweetened coconut milk
 - 1/2 cup + 1.5 tablespoons water
