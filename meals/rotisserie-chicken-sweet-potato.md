@@ -6,7 +6,7 @@ This recipe is inspired by the delicious food from [Fresas in Austin, TX](https:
 ## Ingredients for two people
 
 - 1 store-bought rotisserie chicken
-- Roasted sweet potato havles ([recipe](../sides/roasted-sweet-potato-halves.md))
+- Roasted sweet potato halves ([recipe](../sides/roasted-sweet-potato-halves.md))
 - Corn tortillas to serve
 - Mexican salsa or BBQ sauce to serve
 
@@ -26,4 +26,3 @@ This recipe is inspired by the delicious food from [Fresas in Austin, TX](https:
 3. Once the veggies are done cooking, heat the tortillas on a hot skillet according to their instructions.
 
 7. Serve veggies, chicken, tortillas, and sauce. Enjoy!
-
