@@ -26,4 +26,4 @@ Traditionally, this dish does not use cream, just lots of butter and parmesan. T
 
 8. After incorporating the ingredients for the sauce, add the cooked pasta and toss until the sauce blankets the pasta.
 
-9. Top with freshly ground black pepper and more grated parmesan. Enjoy!
+9. Top with freshly ground black pepper and more grated Parmesan. Enjoy!
