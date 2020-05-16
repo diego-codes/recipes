@@ -23,7 +23,7 @@ We currently have 6 recipes available.
 
 ### Sauces
 
-- [Lemon dijon vinagrette dressing](sauces/lemon-dijon-vinagrette-dressing.md)
+- [Lemon dijon vinaigrette dressing](sauces/lemon-dijon-vinaigrette-dressing.md)
 - [Tahini herb sauce](sauces/tahini-herb-sauce.md)
 
 ### Sides

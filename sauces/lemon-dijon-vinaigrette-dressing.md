@@ -1,4 +1,4 @@
-# Lemon dijon vinagrette dressing
+# Lemon dijon vinaigrette dressing
 
 This recipe comes from the [Laughing Spatula](https://laughingspatula.com/3-minute-lemon-dijon-vinaigrette/). It's bright and easy to make.
 
