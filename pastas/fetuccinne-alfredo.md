@@ -22,7 +22,7 @@ Traditionally, this dish does not use cream, just lots of butter and parmesan. T
 
 6. Actively whisk/mix the butter ½ to 1 tbsp at a time so the butter and the water emulsify (combine into homogenous liquid). Wait until the piece of butter is fully incorporated into the sauce before adding the next piece.
 
-7. Once all of the butter is incorporated into the sauce, add the parmesan cheese in parts, much like you did with the butter, one part at a time.
+7. Once all of the butter is incorporated into the sauce, add the Parmesan cheese in parts, much like you did with the butter, one part at a time.
 
 8. After incorporating the ingredients for the sauce, add the cooked pasta and toss until the sauce blankets the pasta.
 
