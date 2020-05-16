@@ -3,7 +3,7 @@
 Traditionally, this dish does not use cream, just lots of butter and parmesan. This recipe is a combination of a [Bon Appetit recipe](https://www.bonappetit.com/recipe/fettuccine-alfredo) and an [Epicurious video](https://www.youtube.com/watch?v=t81529ANEhI).
 
 ## Ingredients
-- 12 ounces fettuccine or other long pasta (Preferrably fresh pasta)
+- 12 ounces fettuccine or other long pasta (preferably fresh pasta)
 - Kosher salt
 - 1/4 cup (1/2 stick) unsalted butter
 - 3/4 cup finely grated Parmesan, plus more for serving
