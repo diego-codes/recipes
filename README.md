@@ -4,6 +4,8 @@ from various cooking sites and apps.
 
 We currently have 6 recipes available.
 
+For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).
+
 ---
 ### Categories
 * [Breakfast](#breakfast)
