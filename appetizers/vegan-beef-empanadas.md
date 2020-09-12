@@ -14,7 +14,7 @@ These savory, slightly sweet empanadas are technically an appetizer but once you
 - 1 yellow onion diced
 - 2-3 garlic cloves minced
 - 1-2 roma tomatoes diced
-- 1-2 sweet plantains, cooked and diced (frozen kind works too)
+- 1-2 ripe (sweet) plantains, cooked and diced (frozen kind works too)
 - 1/2 bell pepper, diced
 - 4 green olives, quartered
 - 1 tablespoon, tomato paste
