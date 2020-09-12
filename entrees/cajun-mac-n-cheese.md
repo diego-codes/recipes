@@ -38,7 +38,7 @@ This mac-n-cheese recipe combines Bill's innovation of incorporating spaghetti s
 
 4. Dice half a small onion and half a bell pepper, and mince 2 cloves of garlic. Mix all the spices and herbs together in a small bowl.
 
-5. Saute the diced onion in the pan. After the onion begins to become transparent, add the minced garlic and diced bell pepper to the pan. Do not let the garlic burn.
+5. Saute the diced onion in the pan. After the onion begins to become transparent, add the minced garlic and diced bell pepper to the pan. Stir frequently to not let the garlic burn.
 
 6. Once pot of water is boiling, add macaroni from both boxes along with a pinch of salt.
 
