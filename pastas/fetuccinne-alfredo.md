@@ -4,10 +4,10 @@ Traditionally, this dish does not use cream, just lots of butter and parmesan. T
 
 ## Ingredients
 - 12 ounces fettuccine or other long pasta (preferably fresh pasta)
-- Kosher salt
+- 1 1/2 tablespoons Kosher salt
 - 1/4 cup (1/2 stick) unsalted butter
 - 3/4 cup finely grated Parmesan, plus more for serving
-- Freshly ground black pepper
+- Freshly ground black pepper to taste (lots)
 
 ## Instructions
 1. In a large pot, boil water with a good amount of salt (1 1/2 tablespoons).
