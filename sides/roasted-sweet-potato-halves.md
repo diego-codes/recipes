@@ -21,7 +21,7 @@
 
 1. Preheat the oven to 425°F.
 
-2. Coat all prepped veggies (sweet potato havles, onion quarters, and whole garlic cloves) with olive oil and salt, pepper, and spices to taste.
+2. Coat all prepped veggies (sweet potato halves, onion quarters, and whole garlic cloves) with olive oil and salt, pepper, and spices to taste.
 
 3. Place veggies on a baking tray with their cut sides are facing down, cover with aluminum foil, and put in the oven for 35 minutes.
 
