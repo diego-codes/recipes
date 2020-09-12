@@ -5,10 +5,9 @@
 - 2 large sweet potatoes (or 4-6 small sweet potatoes) cut in half
 - 1 medium white or yellow onion cut in quarters
 - 6 garlic cloves whole and peeled
-- Olive oil
-- Salt
-- Pepper
-- Spices like paprika and cumin
+- 2 tbsp olive oil
+- 2 tsp spices like paprika and cumin or to taste
+- Salt and pepper to taste
 
 
 ## Supplies
