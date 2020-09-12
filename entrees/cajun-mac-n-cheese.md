@@ -30,7 +30,7 @@ This mac-n-cheese recipe combines Bill's innovation of incorporating spaghetti s
 
 ## Instructions
 
-1. Thaw the 1/2 lb of medium shrimp, either in the fridge overnight or by running the unopened bag under room temperature water. Drain away any melted water from the thawed shrimp.
+1. Thaw the 1/2 lb of medium shrimp, either in the fridge overnight or by running the unopened bag under cold temperature water. Drain away any melted water from the thawed shrimp.
 
 2. Start boiling enough water in a pot based on the mac-n-cheese box directions.
 
@@ -42,7 +42,7 @@ This mac-n-cheese recipe combines Bill's innovation of incorporating spaghetti s
 
 6. Once pot of water is boiling, add macaroni from both boxes along with a pinch of salt.
 
-7. When oil in the pan is hot, add all 1/2 lb of the raw, thawed shrimp to the pan, and mix it in with the onions and garlic. Once the shrimp begins to turn pink, pour in the 1/8 cup of sherry. Once most of the liquid is boiled off, take off the heat and set aside.
+7. When oil in the pan is hot, add all 1/2 lb of the raw, thawed shrimp to the pan. Once the bottom sides have turned pink, flip all shrimp and remove once the shrimp are fully pink. Leaving the brown bits left by the shrimp, which add good flavor, cook the onions and garlic. When the onions have become translucent, pour in the 1/8 cup of sherry. Once most of the liquid is boiled off, re-add the shrimp, take off the heat and set aside.
 
 8. When the macaroni becomes al dente, drain the water. Melt in the 1/4 cup each of margarine and shredded mozzarella. Once those are melted, mix in the single packet of cheese powder from the macaroni box, then pour in the quarter cup of milk. Mix the shrimp and veggies into the macaroni.
 
