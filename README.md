@@ -16,6 +16,7 @@ We currently have 7 recipes available.
 ---
 ### Breakfast
 
+- [Hummus toast](breakfast/hummus-toast.md)
 - [Waffles](breakfast/waffles.md)
 
 ### Desserts
@@ -28,6 +29,7 @@ We currently have 7 recipes available.
 
 ### Sauces
 
+- [Lemon dijon vinaigrette dressing](sauces/lemon-dijon-vinaigrette-dressing.md)
 - [Tahini herb sauce](sauces/tahini-herb-sauce.md)
 
 ### Sides
