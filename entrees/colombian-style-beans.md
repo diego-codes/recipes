@@ -12,7 +12,7 @@ This tasty bean recipe is Diego's interpretation of comfort food. Serve with whi
 - 2 tablespoon oil
 - 1 cup veggie broth
 - 1 carrot, shredded
-- Black pepper, to taste
+- Salt and black pepper, to taste
 
 
 ## Instructions
