@@ -17,7 +17,7 @@ This tasty bean recipe is Diego's interpretation of comfort food. Serve with whi
 
 ## Instructions
 
-1. Heat up a medium pot and add oil.
+1. Heat up a deep pot on medium heat then add oil when hot.
 
 2. Saute onions til they become translucent, add garlic, then tomatoes.
 
