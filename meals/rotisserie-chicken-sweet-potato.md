@@ -25,4 +25,4 @@ This recipe is inspired by the delicious food from [Fresas in Austin, TX](https:
 
 3. Once the veggies are done cooking, heat the tortillas on a hot skillet according to their instructions.
 
-7. Serve veggies, chicken, tortillas, and sauce. Enjoy!
+4. Serve veggies, chicken, tortillas, and sauce. Enjoy!
