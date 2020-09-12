@@ -1,6 +1,6 @@
 # Colombian-style beans
 
-This tasty bean recipe is Diego's interpretation of comfort food. Serve with white rice, maduros (plantains), and arepas (cornmeal patties).
+This tasty bean recipe is Diego's interpretation of comfort food. Serve with white rice, maduros (ripe plantains), and arepas (cornmeal patties).
 
 
 ## Ingredients:
