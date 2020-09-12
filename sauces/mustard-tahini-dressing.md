@@ -1,6 +1,6 @@
 # Mustard tahini dressing
 
-This savory dressing is based on [this recipe](https://www.thissavoryvegan.com/spicy-potato-kale-bowls-with-mustard-tahini-dressing/). Tastes great in our spicy sweet potato bowl recipe.
+This savory dressing is based on [this recipe](https://www.thissavoryvegan.com/spicy-potato-kale-bowls-with-mustard-tahini-dressing/). Tastes great in our [spicy sweet potato bowl recipe](entrees/spicy-sweet-potato-bowl.md).
 
 
 ## Ingredients (for about 5 servings)
