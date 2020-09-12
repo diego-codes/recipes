@@ -67,7 +67,7 @@ def get_title(recipe_file):
         for line in _file:
             line = line.strip()
             if line.startswith('#'):
-                return line[1:].lstrip()  # text after # and whitespace
+                return line[1:].lstrip() # text after # and whitespace
 
 
 def get_recipes(category):
@@ -105,7 +105,7 @@ def print_file(category_names, count, categories):
 ''')
         # print the list of categories with links
         for category in sorted(category_names):
-            file_.write('* [{0}](#{1})\n'.format(category.capitalize(),
+            file_.write('* [{0}](#{1})\n'.format(category.capitalize().replace('-', ' ') ,
                                                  category))
 
         # print the section for each category
@@ -113,7 +113,7 @@ def print_file(category_names, count, categories):
 ---
 ''')
         for category in sorted(category_names):
-            file_.write('### {0}\n'.format(category.capitalize()))
+            file_.write('### {0}\n'.format(category.capitalize().replace('-', ' ') ))
             file_.write('\n')
             recipes = categories[category]
             for (title, filename) in sorted(recipes):
