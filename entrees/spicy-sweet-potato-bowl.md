@@ -1,6 +1,6 @@
 # Spicy sweet potato bowl
 
-This hearty, warm salad bowl is based on [this recipe](https://www.thissavoryvegan.com/spicy-potato-kale-bowls-with-mustard-tahini-dressing/). Tastes great with our mustard tahini dressing recipe.
+This hearty, warm salad bowl is based on [this recipe](https://www.thissavoryvegan.com/spicy-potato-kale-bowls-with-mustard-tahini-dressing/). Tastes great with our [mustard tahini dressing recipe](sauces/mustard-tahini-dressing.md).
 
 
 ## Ingredients (for about 5 bowls)
