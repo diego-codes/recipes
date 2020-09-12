@@ -2,12 +2,13 @@
 This is a collection of recipes we've learned from our family and friends, or modified
 from various cooking sites and apps.
 
-We currently have 6 recipes available.
+We currently have 7 recipes available.
 
 ---
 ### Categories
 * [Breakfast](#breakfast)
 * [Desserts](#desserts)
+* [Meals](#meals)
 * [Sauces](#sauces)
 * [Sides](#sides)
 * [Soup](#soup)
@@ -22,6 +23,10 @@ We currently have 6 recipes available.
 
 - [Chocolate chip oatmeal cookies](desserts/chocolate-chip-oatmeal-cookies.md)
 
+### Meals
+
+- [Rotisserie chicken with sweet potatoes](meals/rotisserie-chicken-sweet-potato.md)
+
 ### Sauces
 
 - [Lemon dijon vinaigrette dressing](sauces/lemon-dijon-vinaigrette-dressing.md)
@@ -29,6 +34,7 @@ We currently have 6 recipes available.
 
 ### Sides
 
+- [Roasted sweet potato halves](sides/roasted-sweet-potato-halves.md)
 - [Sautéed kale](sides/sauteed-kale.md)
 
 ### Soup
