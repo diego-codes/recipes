@@ -25,7 +25,7 @@ This Thai dessert compliments salty and spicy food well. This recipe is inspired
 
 3. In another large saucepan, heat the tablespoon of oil over medium-high heat. Stir in the 1.5 cups of rice to coat with the oil.
 
-4. Add the can of coconut milk, 1/2 cup water, and teaspoon of salt; bring to a boil. Stir in the caramelized mango.
+4. Add the can of coconut milk, 1/2 cup water, and teaspoon of salt; bring to a boil. Stir in the mango.
 
 5. Cover pan, reduce heat to low, and simmer about 20 minutes or until the liquid is absorbed by the rice.
 
