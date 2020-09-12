@@ -23,7 +23,7 @@ This Thai dessert compliments salty and spicy food well. This recipe is inspired
 
 2. (If you are using frozen mango) Combine 2 tablespoons sugar and 1.5 tablespoons water in a medium pan over medium-high heat; cook until sugar dissolves. Continue cooking 3 minutes or until golden; do not stir. Reduce heat to medium. Add cubed mango to pan, tossing gently. Cook 10 minutes or until mango is lightly browned, stirring frequently.
 
-3. In another large saucepan, heat the tablespoon of olive oil over medium-high heat. Stir in the 1.5 cups of rice to coat with the oil.
+3. In another large saucepan, heat the tablespoon of oil over medium-high heat. Stir in the 1.5 cups of rice to coat with the oil.
 
 4. Add the can of coconut milk, 1/2 cup water, and teaspoon of salt; bring to a boil. Stir in the caramelized mango.
 
