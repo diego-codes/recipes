@@ -29,6 +29,7 @@ We currently have 7 recipes available.
 
 ### Sauces
 
+- [Marinara sauce](sauces/marinara-sauce.md)
 - [Lemon dijon vinaigrette dressing](sauces/lemon-dijon-vinaigrette-dressing.md)
 - [Tahini herb sauce](sauces/tahini-herb-sauce.md)
 
