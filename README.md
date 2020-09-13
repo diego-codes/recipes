@@ -2,7 +2,7 @@
 This is a collection of recipes we've learned from our family and friends, or modified
 from various cooking sites and apps.
 
-We currently have 19 recipes available.
+We currently have 19 recipes available. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).
 
 ---
 ### Categories

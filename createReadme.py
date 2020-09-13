@@ -97,7 +97,7 @@ def print_file(category_names, count, categories):
     with open('README.md', 'w', encoding='UTF-8', errors='ignore') as file_:
         file_.write(HEADER)
         file_.write('\n')
-        file_.write('We currently have {0} recipes available.'.format(count))
+        file_.write('We currently have {0} recipes available. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).'.format(count))
         file_.write('\n')
         file_.write('''
 ---
