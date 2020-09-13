@@ -2,18 +2,24 @@
 This is a collection of recipes we've learned from our family and friends, or modified
 from various cooking sites and apps.
 
-We currently have 7 recipes available.
+We currently have 19 recipes available.
 
 ---
 ### Categories
+* [Appetizers](#appetizers)
 * [Breakfast](#breakfast)
 * [Desserts](#desserts)
-* [Meals](#meals)
+* [Entrees](#entrees)
+* [Pastas](#pastas)
 * [Sauces](#sauces)
 * [Sides](#sides)
 * [Soup](#soup)
 
 ---
+### Appetizers
+
+- [Vegan “beef” empanadas](appetizers/vegan-beef-empanadas.md)
+
 ### Breakfast
 
 - [Hummus toast](breakfast/hummus-toast.md)
@@ -22,15 +28,26 @@ We currently have 7 recipes available.
 ### Desserts
 
 - [Chocolate chip oatmeal cookies](desserts/chocolate-chip-oatmeal-cookies.md)
+- [Mango coconut rice](desserts/mango-coconut-rice.md)
+- [Strawberry muffins](desserts/strawberry-muffins.md)
 
-### Meals
+### Entrees
 
-- [Rotisserie chicken with sweet potatoes](meals/rotisserie-chicken-sweet-potato.md)
+- [Cajun mac-n-cheese](entrees/cajun-mac-n-cheese.md)
+- [Colombian-style beans](entrees/colombian-style-beans.md)
+- [Rotisserie chicken with sweet potatoes](entrees/rotisserie-chicken-sweet-potato.md)
+- [Spicy sweet potato bowl](entrees/spicy-sweet-potato-bowl.md)
+- [Vegan green bean hot dish](entrees/vegan-green-bean-hot-dish.md)
+
+### Pastas
+
+- [Fettuccine alfredo](pastas/fetuccinne-alfredo.md)
 
 ### Sauces
 
-- [Marinara sauce](sauces/marinara-sauce.md)
 - [Lemon dijon vinaigrette dressing](sauces/lemon-dijon-vinaigrette-dressing.md)
+- [Marinara sauce](sauces/marinara-sauce.md)
+- [Mustard tahini dressing](sauces/mustard-tahini-dressing.md)
 - [Tahini herb sauce](sauces/tahini-herb-sauce.md)
 
 ### Sides
