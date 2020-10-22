@@ -63,7 +63,7 @@ def get_title(recipe_file):
     ''' Read the file until we hit the first line that starts with a #
     indicating a title in markdown. We'll use that as the title for this
     entry. '''
-    with open(recipe_file) as _file:
+    with open(recipe_file, encoding='UTF-8', errors='ignore') as _file:
         for line in _file:
             line = line.strip()
             if line.startswith('#'):
@@ -94,10 +94,10 @@ def get_category_dict(category_names):
 
 def print_file(category_names, count, categories):
     ''' Now we have all the information, print it out in markdown format. '''
-    with open('README.md', 'w') as file_:
+    with open('README.md', 'w', encoding='UTF-8', errors='ignore') as file_:
         file_.write(HEADER)
         file_.write('\n')
-        file_.write('We currently have {0} recipes available.'.format(count))
+        file_.write('We currently have {0} recipes available. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).'.format(count))
         file_.write('\n')
         file_.write('''
 ---
