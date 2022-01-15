@@ -39,4 +39,4 @@ Inspired by Austin's [East Side King](https://www.keyingredient.com/recipes/2265
 
 7. Season with salt to taste and garnish with the 1/8 cup mint, 1/8 cup cilantro, and 1/8 cup basil.
 
-8. Ladle the Brussels sprouts over rice, and serve the remaining half of the chili sauce mixture on the side.
+8. Serve the Brussels sprouts over rice, and set the remaining half of the chili sauce mixture on the side.
