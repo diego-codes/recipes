@@ -2,7 +2,7 @@
 This is a collection of recipes we've learned from our family and friends, or modified
 from various cooking sites and apps.
 
-We currently have 19 recipes available. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).
+We currently have 27 recipes available. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).
 
 ---
 ### Categories
@@ -18,6 +18,8 @@ We currently have 19 recipes available. For recipes in development, check out [t
 ---
 ### Appetizers
 
+- [Firecracker tofu letter wraps](appetizers/firecracker-tofu-lettuce-wraps.md)
+- [Nashville hot tofu sliders](appetizers/nashville-hot-tofu-sliders.md)
 - [Vegan “beef” empanadas](appetizers/vegan-beef-empanadas.md)
 
 ### Breakfast
@@ -33,18 +35,19 @@ We currently have 19 recipes available. For recipes in development, check out [t
 
 ### Entrees
 
-- [Cajun mac-n-cheese](entrees/cajun-mac-n-cheese.md)
-- [Colombian-style beans](entrees/colombian-style-beans.md)
 - [Rotisserie chicken with sweet potatoes](entrees/rotisserie-chicken-sweet-potato.md)
 - [Spicy sweet potato bowl](entrees/spicy-sweet-potato-bowl.md)
-- [Vegan green bean hot dish](entrees/vegan-green-bean-hot-dish.md)
+- [Thai chile Brussels sprouts](entrees/thai-chile-brussels-sprouts.md)
 
 ### Pastas
 
-- [Fettuccine alfredo](pastas/fetuccinne-alfredo.md)
+- [Cajun mac-n-cheese](pastas/cajun-mac-n-cheese.md)
+- [Fettuccine alfredo](pastas/fettuccine-alfredo.md)
+- [Mushroom stroganoff](pastas/mushroom-stroganoff.md)
 
 ### Sauces
 
+- [Blue cheese dip](sauces/blue-cheese-dip.md)
 - [Lemon dijon vinaigrette dressing](sauces/lemon-dijon-vinaigrette-dressing.md)
 - [Marinara sauce](sauces/marinara-sauce.md)
 - [Mustard tahini dressing](sauces/mustard-tahini-dressing.md)
@@ -52,12 +55,17 @@ We currently have 19 recipes available. For recipes in development, check out [t
 
 ### Sides
 
+- [Colombian-style beans](sides/colombian-style-beans.md)
+- [Gamja jorim (Korean braised potatoes)](sides/korean-braised-potatoes.md)
+- [Jollof rice](sides/jollof-rice.md)
 - [Roasted sweet potato halves](sides/roasted-sweet-potato-halves.md)
 - [Sautéed kale](sides/sauteed-kale.md)
+- [Vegan green bean hot dish](sides/vegan-green-bean-hot-dish.md)
 
 ### Soup
 
 - [Brothy white bean soup](soup/brothy-white-bean-soup.md)
+- [Thai coconut soup](soup/thai-coconut-soup.md)
 
 ## Future recipes
 There are a bunch of things we would love to add in the future. If you have a good recipe
@@ -84,5 +92,5 @@ for any of the following foods that we could experiment with, please send it our
 for autogenerating README
 
 ## License
-&copy; 2020 Diego and Nic
+&copy; 2022 Diego and Nic
 This repository is licensed under the MIT license. See `LICENSE` for details.
