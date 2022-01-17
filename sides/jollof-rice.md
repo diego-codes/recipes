@@ -30,7 +30,7 @@ A Ghanaian version of this spicy staple, eat it with some sweet plantains and a 
 
 4. Once the oil is shimmering, add the onion puree and cook until the water has cooked out and the puree starts to brown, about 15 minutes.
 
-5. While the puréed onion is sautéing, add the 2 cans diced tomatoes, 1 can tomato paste, and habanero pepper to the blender. Pulse until smooth. Transfer to a separate medium bowl.
+5. While the puréed onion is sautéing, add the 2 cans diced tomatoes, 1 can tomato paste, and habanero pepper to the blender. Pulse until smooth.
 
 6. Stir in the tomato puree and add the 2 teaspoons curry powder, 1 teaspoon garlic powder, 1 teaspoon ginger, 1/2 teaspoon dried herbs, and 3 crushed bouillon cubes. Cook for 20-30 minutes, stirring occasionally, until the stew has reduced by half and is deep red in color.
 
