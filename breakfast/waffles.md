@@ -17,14 +17,16 @@ This waffle recipe (also suitable for pancakes) makes light, fluffy waffles perf
 
 ## Instructions
 
-1. Combine wet ingredients in a bowl and whisk together.
+1. Whip the 3 eggs into a froth in a medium bowl.
 
-2. Combine dry ingredients in a different bowl and mix them.
+2. Combine the other wet ingredients with the eggs and lightly whisk together.
 
-3. Whisk dry ingredients into wet ingredients, but just until there are no longer whisps of flour. Lumpiness is ok.
+3. Combine dry ingredients in a different bowl and mix them.
 
-4. Let the batter rest for about 20 minutes.
+4. Whisk dry ingredients into wet ingredients, but just until there are no longer whisps of flour. Do not overmix the batter! Lumpiness is ok.
 
-5. Heat up a skillet to medium heat.
+5. Let the batter rest for about 30 minutes.
 
-5. Melt a bit of butter on the skillet, and drop about 1/2 cup of batter for each waffle (or pancake).
+6. Heat up a skillet to medium heat.
+
+7. Melt a bit of butter on the skillet, and drop about 1/2 cup of batter for each waffle (or pancake).
