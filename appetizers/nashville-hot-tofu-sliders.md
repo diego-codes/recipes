@@ -28,11 +28,11 @@ This recipe originates as Nashville hot tofu nuggets from [Rabbits and Wolves](h
 
 2. Once you are ready to cook the tofu, preheat the oven to 375 degrees.
 
-3. Spray a baking sheet with non-stick spray, then set aside.
+3. Cut the block of tofu into cubes. Set aside.
 
-4. Cut the block of tofu into cubes. Set aside.
+4. Take 3 small mixing bowls. In the first bowl, whisk together 1 cup non-dairy milk, 1 teaspoon apple cider vinegar, and 1 teaspoon of hot sauce. In the second bowl, whisk together 1 cup flour and 1 teaspoon of salt. In the third bowl, add the panko bread crumbs.
 
-5. Take 3 small mixing bowls. In the first bowl, whisk together 1 cup non-dairy milk, 1 teaspoon apple cider vinegar, and 1 teaspoon of hot sauce. In the second bowl, whisk together 1 cup flour and 1 teaspoon of salt. In the third bowl, add the panko bread crumbs.
+5. Spray a baking sheet with non-stick spray.
 
 6. Toss a few tofu cubes at a time in the flour, shake off any excess, and put them into the almond milk mixture. Once they are soaked, roll them around in the flour bowl again, then dip them back in the milk bowl, and cover them in panko coating completely. Pat the panko onto the tofu to make sure it is fully coated.
 

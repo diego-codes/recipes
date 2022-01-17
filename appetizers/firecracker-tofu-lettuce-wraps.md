@@ -19,7 +19,6 @@ For the lettuce wraps:
 - 1 container extra firm tofu
 - 4 ounces brown rice noodles
 - butter lettuce leaves for wrapping
-- peanuts, cilantro, lime for serving
 
 Optional toppings:
 - crushed peanuts or cashews
