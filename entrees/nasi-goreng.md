@@ -11,7 +11,7 @@ Indonesian fried rice dish, often served with a side of pickled veggies or kimch
 - 2 teaspoons sambal oelek, plus more for serving
 - 3 tablespoons peanut oil
 - 3 large eggs, beaten
-- 12 ounces small shrimp, peeled and deveined
+- 12 ounces small, raw shrimp, peeled and deveined
 - 2 medium shallots, thinly sliced
 - 2 cloves garlic, thinly sliced
 - 1 tablespoon brown sugar
