@@ -1,6 +1,6 @@
 # Nasi goreng
 
-This recipe is based off [this Food Network recipe](https://www.foodnetwork.com/applink/recipes/food-network-kitchen/nasi-goreng-5482485). 
+Indonesian fried rice dish, often served with a side of pickled veggies or kimchi. Our recipe is based off [this Food Network recipe](https://www.foodnetwork.com/applink/recipes/food-network-kitchen/nasi-goreng-5482485). 
 
 
 ## Ingredients
