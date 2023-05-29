@@ -2,7 +2,7 @@
 This is a collection of recipes we've learned from our family and friends, or modified
 from various cooking sites and apps.
 
-We currently have 28 recipes in this collection. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).
+We currently have 29 recipes in this collection. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).
 
 ---
 ### Categories
@@ -37,6 +37,7 @@ We currently have 28 recipes in this collection. For recipes in development, che
 
 - [Nasi goreng](entrees/nasi-goreng.md)
 - [Rotisserie chicken with sweet potatoes](entrees/rotisserie-chicken-sweet-potato.md)
+- [Sheet pan shrimp boil](entrees/sheet-pan-shrimp-boil.md)
 - [Spicy sweet potato bowl](entrees/spicy-sweet-potato-bowl.md)
 - [Thai chile Brussels sprouts](entrees/thai-chile-brussels-sprouts.md)
 
