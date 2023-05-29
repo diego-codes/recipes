@@ -18,7 +18,7 @@ We currently have 29 recipes in this collection. For recipes in development, che
 ---
 ### Appetizers
 
-- [Firecracker tofu letter wraps](appetizers/firecracker-tofu-lettuce-wraps.md)
+- [Firecracker tofu lettuce wraps](appetizers/firecracker-tofu-lettuce-wraps.md)
 - [Nashville hot tofu sliders](appetizers/nashville-hot-tofu-sliders.md)
 - [Vegan “beef” empanadas](appetizers/vegan-beef-empanadas.md)
 

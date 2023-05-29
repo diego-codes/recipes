@@ -1,4 +1,4 @@
-# Firecracker tofu letter wraps
+# Firecracker tofu lettuce wraps
 
 If you like spicy, peanuty stirfry but want to eat it handheld, then this recipe originally from [Pinch of Yum](https://pinchofyum.com/vegan-lettuce-wraps) is for you!
 
