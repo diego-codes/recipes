@@ -90,7 +90,7 @@ def get_category_dict(category_names):
 
 def print_file(category_names, count, categories):
     content = f"{HEADER}\n"
-    content += f"We currently have {count} recipes available. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).\n\n"
+    content += f"We currently have {count} recipes in this collection. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).\n\n"
     content += "### Categories\n"
     content += "---\n"
 
