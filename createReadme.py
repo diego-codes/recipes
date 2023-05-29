@@ -14,11 +14,10 @@
     current number of recipes and display the result in the command tray.
 '''
 from __future__ import print_function
-import os
-import posixpath
+import os, posixpath
 
 HEADER = '''# Family recipes
-This is a collection of recipes we've learned from our family and friends, or modified
+This is a collection of recipes we''ve learned from our family and friends, or modified
 from various cooking sites and apps.
 '''
 
@@ -47,7 +46,7 @@ for any of the following foods that we could experiment with, please send it our
 for autogenerating README
 
 ## License
-&copy; 2022 Diego and Nic
+&copy; 2023 Diego and Nic
 This repository is licensed under the MIT license. See `LICENSE` for details.
 '''
 
@@ -68,7 +67,7 @@ def get_title(recipe_file):
         for line in _file:
             line = line.strip()
             if line.startswith('#'):
-                return line[1:].lstrip()  # text after # and whitespace
+                return line[1:].lstrip() # text after # and whitespace
 
 
 def get_recipes(category):
@@ -76,7 +75,7 @@ def get_recipes(category):
     recipe_files = [x for x in os.listdir(category)]
     titles = []
     for filename in recipe_files:
-        fullname = posixpath.join(category, filename)  # here lies the issue
+        fullname = posixpath.join(category, filename) # here lies the issue
         if (posixpath.isfile(fullname)) and fullname.endswith('.md'):
             title = get_title(fullname)
             titles.append((title, fullname))
@@ -98,8 +97,7 @@ def print_file(category_names, count, categories):
     with open('README.md', 'w', encoding='UTF-8', errors='ignore') as file_:
         file_.write(HEADER)
         file_.write('\n')
-        file_.write(
-            'We currently have {0} recipes available. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).'.format(count))
+        file_.write('We currently have {0} recipes available. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).'.format(count))
         file_.write('\n')
         file_.write('''
 ---
@@ -107,7 +105,7 @@ def print_file(category_names, count, categories):
 ''')
         # print the list of categories with links
         for category in sorted(category_names):
-            file_.write('* [{0}](#{1})\n'.format(category.capitalize().replace('-', ' '),
+            file_.write('* [{0}](#{1})\n'.format(category.capitalize().replace('-', ' ') ,
                                                  category))
 
         # print the section for each category
@@ -115,8 +113,7 @@ def print_file(category_names, count, categories):
 ---
 ''')
         for category in sorted(category_names):
-            file_.write('### {0}\n'.format(
-                category.capitalize().replace('-', ' ')))
+            file_.write('### {0}\n'.format(category.capitalize().replace('-', ' ') ))
             file_.write('\n')
             recipes = categories[category]
             for (title, filename) in sorted(recipes):
@@ -124,6 +121,8 @@ def print_file(category_names, count, categories):
             file_.write('\n')
 
         file_.write(FOOTER)
+        print('Generated README successfully with {0} recipes'.format(count))
+
 
 
 def create_readme():
@@ -132,7 +131,6 @@ def create_readme():
     category_names = get_list_of_categories()
     count, categories = get_category_dict(category_names)
     print_file(category_names, count, categories)
-
 
 if __name__ == '__main__':
     create_readme()
