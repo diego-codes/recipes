@@ -35,6 +35,7 @@ We currently have 27 recipes available. For recipes in development, check out [t
 
 ### Entrees
 
+- [Nasi goreng](entrees/nasi-goreng.md)
 - [Rotisserie chicken with sweet potatoes](entrees/rotisserie-chicken-sweet-potato.md)
 - [Spicy sweet potato bowl](entrees/spicy-sweet-potato-bowl.md)
 - [Thai chile Brussels sprouts](entrees/thai-chile-brussels-sprouts.md)
