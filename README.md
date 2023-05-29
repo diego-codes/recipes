@@ -1,5 +1,5 @@
 # Family recipes
-This is a collection of recipes we've learned from our family and friends, or modified
+This is a collection of recipes we have learned from our family and friends, or modified
 from various cooking sites and apps.
 
 We currently have 27 recipes available. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).
@@ -92,5 +92,5 @@ for any of the following foods that we could experiment with, please send it our
 for autogenerating README
 
 ## License
-&copy; 2022 Diego and Nic
+&copy; 2023 Diego and Nic
 This repository is licensed under the MIT license. See `LICENSE` for details.

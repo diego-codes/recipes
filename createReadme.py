@@ -17,7 +17,7 @@ from __future__ import print_function
 import os, posixpath
 
 HEADER = '''# Family recipes
-This is a collection of recipes we''ve learned from our family and friends, or modified
+This is a collection of recipes we have learned from our family and friends, or modified
 from various cooking sites and apps.
 '''
 
