@@ -2,7 +2,7 @@
 This is a collection of recipes we've learned from our family and friends, or modified
 from various cooking sites and apps.
 
-We currently have 28 recipes in this collection. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).
+We currently have 29 recipes in this collection. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).
 
 ---
 ### Categories
@@ -67,6 +67,7 @@ We currently have 28 recipes in this collection. For recipes in development, che
 
 - [Brothy white bean soup](soup/brothy-white-bean-soup.md)
 - [Thai coconut soup](soup/thai-coconut-soup.md)
+- [West African peanut soup](soup/west-african-peanut-soup.md)
 
 ## Future recipes
 There are a bunch of things we would love to add in the future. If you have a good recipe
