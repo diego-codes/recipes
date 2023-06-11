@@ -14,7 +14,6 @@ We currently have 29 recipes in this collection. For recipes in development, che
 * [Sauces](#sauces)
 * [Sides](#sides)
 * [Soup](#soup)
-
 ---
 ### Appetizers
 
