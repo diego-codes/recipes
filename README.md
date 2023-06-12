@@ -68,6 +68,7 @@ We currently have 30 recipes in this collection. For recipes in development, che
 
 - [Brothy white bean soup](soup/brothy-white-bean-soup.md)
 - [Thai coconut soup](soup/thai-coconut-soup.md)
+- [West African peanut soup](soup/west-african-peanut-soup.md)
 
 ## Future recipes
 There are a bunch of things we would love to add in the future. If you have a good recipe
