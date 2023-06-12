@@ -2,7 +2,7 @@
 This is a collection of recipes we've learned from our family and friends, or modified
 from various cooking sites and apps.
 
-We currently have 30 recipes in this collection. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).
+We currently have 31 recipes in this collection. For recipes in development, check out [this document](https://docs.google.com/document/d/1xt3ZELFwRy-5zbsjgJlqxuL6pR6px2PWvsmN4Wd8rmI/edit?usp=sharing).
 
 ---
 ### Categories
@@ -17,7 +17,7 @@ We currently have 30 recipes in this collection. For recipes in development, che
 ---
 ### Appetizers
 
-- [Firecracker tofu letter wraps](appetizers/firecracker-tofu-lettuce-wraps.md)
+- [Firecracker tofu lettuce wraps](appetizers/firecracker-tofu-lettuce-wraps.md)
 - [Nashville hot tofu sliders](appetizers/nashville-hot-tofu-sliders.md)
 - [Vegan “beef” empanadas](appetizers/vegan-beef-empanadas.md)
 
@@ -53,6 +53,7 @@ We currently have 30 recipes in this collection. For recipes in development, che
 - [Marinara sauce](sauces/marinara-sauce.md)
 - [Mustard tahini dressing](sauces/mustard-tahini-dressing.md)
 - [Tahini herb sauce](sauces/tahini-herb-sauce.md)
+- [Vegan mac-n-cheese powder](sauces/vegan-mac-n-cheese-powder.md)
 
 ### Sides
 
