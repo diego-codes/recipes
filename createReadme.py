@@ -48,7 +48,7 @@ for any of the following foods that we could experiment with, please send it our
 for autogenerating README
 
 ## License
-&copy; 2023 Diego and Nic
+&copy; 2020 - 2025 Diego and Nic
 This repository is licensed under the MIT license. See `LICENSE` for details.
 '''
 
